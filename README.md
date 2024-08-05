@@ -1,2 +1,9 @@
 # supermaket_sales_data_analysis
-Data Analysis project done on MS-Excel (with date range from Jan 1,2019 to Mar 31,2019). 
+## PROBLEM STATEMENT 
+### KPI'S REQUIREMENT 
+#### 1. Total Order Analysis:
+              * Calculate the total order for each respective month.
+              * Determine the month-on-month increase or deccrease in order.
+              * Show the sparkline of the total order for each respective month.
+
+#### 2.
