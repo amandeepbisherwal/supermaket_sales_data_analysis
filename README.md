@@ -2,8 +2,8 @@
 ## PROBLEM STATEMENT 
 ### KPI'S REQUIREMENT 
 #### 1. Total Order Analysis:
-              * Calculate the total order for each respective month.
-              * Determine the month-on-month increase or deccrease in order.
-              * Show the sparkline of the total order for each respective month.
+              a. Calculate the total order for each respective month.
+              b. Determine the month-on-month increase or deccrease in order.
+              c. Show the sparkline of the total order for each respective month.
 
 #### 2.
